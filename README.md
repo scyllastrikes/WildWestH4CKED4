@@ -13,19 +13,7 @@ Departure and arrival locations
 Weather conditions (bad weather or not)
 Traffic congestion
 Crew availability issues
-📊 Project Structure
-bash
-Copy code
-├── data/
-│   ├── airplane_flights_dataset.csv  # Dataset used for training and testing
-├── models/
-│   ├── flight_delay_model.pth        # Trained PyTorch model
-├── notebooks/
-│   ├── flight_delay_prediction.ipynb # Jupyter notebook with code
-├── README.md                         # Project overview
-└── requirements.txt                  # Dependencies for running the project
-🛠️ How to Use
-Clone the Repository
+
 
 
 
